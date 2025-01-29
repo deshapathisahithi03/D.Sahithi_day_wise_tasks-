@@ -1,0 +1,17 @@
+why do we use functions in programming?
+
+reusability
+easy to debug
+reduces time complexity
+
+def function_name(parameters):
+  ...
+function_name should be small letter
+
+application memory
+assignment memory
+
+Garbage Collection: storing the data which are predefined/previous variables
+ex:youtube buffering
+
+dis--to show how variable are taking--desemble the function
