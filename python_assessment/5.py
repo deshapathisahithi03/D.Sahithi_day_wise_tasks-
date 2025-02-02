@@ -22,5 +22,5 @@ class Manager(Person, Employee):
         return self.salary
 
 m = Manager("Alice", 90000)
-print(f"Manager Name: {m.get_name()}")  # Output: Alice
+print(f"Manager Name: {m.get_name()}") 
 print(f"Manager Salary: {m.get_salary()}")  
