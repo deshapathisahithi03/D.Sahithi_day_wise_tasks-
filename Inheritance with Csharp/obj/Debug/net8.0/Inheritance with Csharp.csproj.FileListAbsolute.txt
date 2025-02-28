@@ -1,0 +1,14 @@
+C:\Users\dell\Documents\capg training\c#\Inheritance with Csharp\bin\Debug\net8.0\Inheritance with Csharp.exe
+C:\Users\dell\Documents\capg training\c#\Inheritance with Csharp\bin\Debug\net8.0\Inheritance with Csharp.deps.json
+C:\Users\dell\Documents\capg training\c#\Inheritance with Csharp\bin\Debug\net8.0\Inheritance with Csharp.runtimeconfig.json
+C:\Users\dell\Documents\capg training\c#\Inheritance with Csharp\bin\Debug\net8.0\Inheritance with Csharp.dll
+C:\Users\dell\Documents\capg training\c#\Inheritance with Csharp\bin\Debug\net8.0\Inheritance with Csharp.pdb
+C:\Users\dell\Documents\capg training\c#\Inheritance with Csharp\obj\Debug\net8.0\Inheritance with Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Documents\capg training\c#\Inheritance with Csharp\obj\Debug\net8.0\Inheritance with Csharp.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\capg training\c#\Inheritance with Csharp\obj\Debug\net8.0\Inheritance with Csharp.AssemblyInfo.cs
+C:\Users\dell\Documents\capg training\c#\Inheritance with Csharp\obj\Debug\net8.0\Inheritance with Csharp.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\capg training\c#\Inheritance with Csharp\obj\Debug\net8.0\Inheritance with Csharp.dll
+C:\Users\dell\Documents\capg training\c#\Inheritance with Csharp\obj\Debug\net8.0\refint\Inheritance with Csharp.dll
+C:\Users\dell\Documents\capg training\c#\Inheritance with Csharp\obj\Debug\net8.0\Inheritance with Csharp.pdb
+C:\Users\dell\Documents\capg training\c#\Inheritance with Csharp\obj\Debug\net8.0\Inheritance with Csharp.genruntimeconfig.cache
+C:\Users\dell\Documents\capg training\c#\Inheritance with Csharp\obj\Debug\net8.0\ref\Inheritance with Csharp.dll
