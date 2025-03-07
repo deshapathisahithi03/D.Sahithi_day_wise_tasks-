@@ -1,0 +1,14 @@
+C:\Users\dell\Documents\capg training\c#\Polymorphism with c#sharp\bin\Debug\net8.0\Polymorphism with c#sharp.exe
+C:\Users\dell\Documents\capg training\c#\Polymorphism with c#sharp\bin\Debug\net8.0\Polymorphism with c#sharp.deps.json
+C:\Users\dell\Documents\capg training\c#\Polymorphism with c#sharp\bin\Debug\net8.0\Polymorphism with c#sharp.runtimeconfig.json
+C:\Users\dell\Documents\capg training\c#\Polymorphism with c#sharp\bin\Debug\net8.0\Polymorphism with c#sharp.dll
+C:\Users\dell\Documents\capg training\c#\Polymorphism with c#sharp\bin\Debug\net8.0\Polymorphism with c#sharp.pdb
+C:\Users\dell\Documents\capg training\c#\Polymorphism with c#sharp\obj\Debug\net8.0\Polymorphism with c#sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Documents\capg training\c#\Polymorphism with c#sharp\obj\Debug\net8.0\Polymorphism with c#sharp.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\capg training\c#\Polymorphism with c#sharp\obj\Debug\net8.0\Polymorphism with c#sharp.AssemblyInfo.cs
+C:\Users\dell\Documents\capg training\c#\Polymorphism with c#sharp\obj\Debug\net8.0\Polymorphism with c#sharp.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\capg training\c#\Polymorphism with c#sharp\obj\Debug\net8.0\Polymorphism with c#sharp.dll
+C:\Users\dell\Documents\capg training\c#\Polymorphism with c#sharp\obj\Debug\net8.0\refint\Polymorphism with c#sharp.dll
+C:\Users\dell\Documents\capg training\c#\Polymorphism with c#sharp\obj\Debug\net8.0\Polymorphism with c#sharp.pdb
+C:\Users\dell\Documents\capg training\c#\Polymorphism with c#sharp\obj\Debug\net8.0\Polymorphism with c#sharp.genruntimeconfig.cache
+C:\Users\dell\Documents\capg training\c#\Polymorphism with c#sharp\obj\Debug\net8.0\ref\Polymorphism with c#sharp.dll
