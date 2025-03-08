@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Polymorphism with c#sharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5653dba7d71f220d5b908ffc8e48fb9ca574b71d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Polymorphism with c#sharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Polymorphism with c#sharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
